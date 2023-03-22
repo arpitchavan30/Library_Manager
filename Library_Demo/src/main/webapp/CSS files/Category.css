@@ -1,0 +1,38 @@
+@charset "ISO-8859-1";
+*{
+	font-family: 'Times New Roman', Times, serif;
+	max-width: 100%;
+}
+.upbar{
+	font-size: 30px;
+	color:green;;
+	height: 65px;    
+}
+
+.my-footer{
+	background-color:   #77FFFF;
+	width: 100vw;
+}
+.educational-booksflex{
+    display: grid;
+    justify-content: space-evenly;
+    grid-template-columns: 400px 400px 400px;
+    
+    padding: 50px;
+}
+.my-card-styling{
+    margin-bottom: 50px;
+    border:1px solid black;
+    border: 2px solid black;
+	box-shadow:5px 5px rgb(0, 0, 0);
+}
+.book_image{
+    object-fit: cover;
+
+}
+.card-link{
+    font-size: 30px;
+}
+
+
+  

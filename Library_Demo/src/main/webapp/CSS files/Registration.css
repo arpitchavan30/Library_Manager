@@ -1,0 +1,16 @@
+@charset "ISO-8859-1";
+
+@charset "ISO-8859-1";
+*{
+	font-family: 'Times New Roman', Times, serif;
+	max-width: 100%;
+	
+}
+.my-footer{
+	background-color: #77FFFF;
+	width: 100vw;
+}
+.upbar{
+    font-size: 30px;
+	height: 65px;
+}

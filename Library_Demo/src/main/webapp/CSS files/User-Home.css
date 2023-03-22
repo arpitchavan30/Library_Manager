@@ -1,0 +1,62 @@
+@charset "ISO-8859-1";
+@charset "ISO-8859-1";
+*{
+	font-family: 'Times New Roman', Times, serif;
+	max-width: 100%;
+}
+.upbar{
+	font-size: 30px;
+	opacity: 100%;
+	color: rgb(0, 0, 0);
+}
+
+.container{
+	position: absolute;
+	bottom: 8px;
+	left: 16px;
+}
+
+.A4{
+	margin-left: 350px;
+	
+}
+.bgphoto{
+
+	width: 100vw;
+	height: 100vh;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.container2{
+	width: 100vw;
+}
+.border-radius{
+	border-radius: 30px;
+	border: 2px solid black;
+	box-shadow:5px 5px rgb(0, 0, 0);
+	width: 350px;
+	height: 200px;
+}
+.quote{
+	margin-left: 20px;
+	color: black;
+	height: 100px;
+	
+}
+
+.search-box{
+	margin:auto;
+	width: 500px;
+	padding-top: 250px;
+	height: 50px;
+}
+.my-footer{
+	background-color: rgb(180, 159, 159);
+	width: 100vw;
+}
+.p-2 img{
+	transition: all 0.5s ease;	
+}
+.p-2 img:hover{
+	transform: scale(1.2);
+}
