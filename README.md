@@ -1,4 +1,4 @@
-![Home](https://github.com/arpitchavan30/Library_Manager/assets/126240415/bfc8f3d6-59b5-4e97-8f1f-2e68abba6a5d)# Library_Manager
+# Library_Manager
 
 Introducing the Library Management System: This project makes borrowing books easier for students. They can create accounts, borrow, and return books hassle-free. No more waiting in queues. Administrators can effortlessly update the database and add new titles.
 
@@ -23,4 +23,23 @@ Introducing the Library Management System: This project makes borrowing books ea
 These key features, coupled with simplified book returns and a mechanism for managing late returns, enrich the Library Management System, enhancing user experience for both administrators and students.
 
 Home Page :-
+![Home](https://github.com/arpitchavan30/Library_Manager/assets/126240415/af7ee1ce-b0e5-4697-a9f8-b2047e2776f5)
+
+About us :- 
+![about us ](https://github.com/arpitchavan30/Library_Manager/assets/126240415/3e678c8b-c4ab-4910-87e0-2f6e47b7c2d1)
+
+Books :-
+![books cat](https://github.com/arpitchavan30/Library_Manager/assets/126240415/05709b49-fc5d-4754-85b2-40ca49a93026)
+
+Login Pages :-
+![user login](https://github.com/arpitchavan30/Library_Manager/assets/126240415/b33739b4-0d52-4f77-9e15-8c99f392785d)
+
+![admin login](https://github.com/arpitchavan30/Library_Manager/assets/126240415/d490be5c-3f1f-441f-a34a-daddeafb923c)
+
+Registration Page :-
+
+![user register](https://github.com/arpitchavan30/Library_Manager/assets/126240415/3cb84c9f-143c-48b7-9b0a-b236d06c7d06)
+
+
+
 
