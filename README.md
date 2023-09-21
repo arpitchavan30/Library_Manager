@@ -22,6 +22,8 @@ Introducing the Library Management System: This project makes borrowing books ea
 
 These key features, coupled with simplified book returns and a mechanism for managing late returns, enrich the Library Management System, enhancing user experience for both administrators and students.
 
+I'm enhancing the Library Management System using Spring Boot and JPA Hibernate to introduce new features and streamline development for increased efficiency.
+
 Home Page :-
 ![Home](https://github.com/arpitchavan30/Library_Manager/assets/126240415/af7ee1ce-b0e5-4697-a9f8-b2047e2776f5)
 
